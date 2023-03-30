@@ -1,1 +1,1 @@
-# Pro yecto-Final-Frontend Desarrollo de Curriculum Vitae
+Se busca hacer una página web como Proyecto Final del curso Primeros Pasos en Desarrollo Frontend.  Por el momento solo alcanzo a hacer lo que está presentado, no logro darme cuenta de los errores ni como corregirlos.  Se agradece el tiempo y la buena predispoción dispensada.
